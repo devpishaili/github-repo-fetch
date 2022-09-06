@@ -9,6 +9,6 @@
  - Using the fetch API
  - Typescript
  
- ## Seting up:
+ ## Setting up:
  
- I should make a long post about this. Check out the blog @ (devpishaili.hashnode.dev)[https://devpishaili.hashnode.dev]
+ I should make a long post about this. Check out the blog @ [https://devpishaili.hashnode.dev](devpishaili.hashnode.dev)
