@@ -11,4 +11,4 @@
  
  ## Seting up:
  
- I should make a long post about this. Check out the blog @ devpishaili.hashnode.dev
+ I should make a long post about this. Check out the blog @ (devpishaili.hashnode.dev)[https://devpishaili.hashnode.dev]
